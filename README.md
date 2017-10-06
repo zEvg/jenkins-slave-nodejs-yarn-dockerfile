@@ -1,1 +1,1 @@
-# jenkins-slave-nodejs-yarn-dockerfile
+# jnlp-slave-with-jenkins-user-group
